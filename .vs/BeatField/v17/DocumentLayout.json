@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\BeatField\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D593D9-5DFA-58B3-7AD2-ED5D0FD252CF}|Assembly-CSharp-Editor.csproj|d:\\unityproject\\beatfield\\assets\\scripts\\editor\\sceneswitcherwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D593D9-5DFA-58B3-7AD2-ED5D0FD252CF}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\sceneswitcherwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneSwitcherWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\BeatField\\Assets\\Scripts\\Editor\\SceneSwitcherWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\SceneSwitcherWindow.cs",
+              "ToolTip": "D:\\UnityProject\\BeatField\\Assets\\Scripts\\Editor\\SceneSwitcherWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\SceneSwitcherWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:27:05.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
