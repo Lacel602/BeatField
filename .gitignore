@@ -15,6 +15,7 @@ Thumbs.db
 # Visual Studio / Rider
 .vscode/
 .idea/
+.vs/
 *.csproj
 *.sln
 *.suo
